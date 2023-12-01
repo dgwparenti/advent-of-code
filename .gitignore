@@ -8,6 +8,7 @@ __pycache__/
 
 # venv folder
 advent/
+ownerproof
 
 # Distribution / packaging
 .Python
